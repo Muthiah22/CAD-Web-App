@@ -2,9 +2,7 @@
 numpy
 opencv-python
 pickle
-
 streamlit
-
 pandas 
 
 

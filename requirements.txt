@@ -1,8 +1,10 @@
 
-numpy 
-
+numpy
+opencv-python
 pickle
 
-pyrebase
-pandas
+streamlit
+
+pandas 
+
 

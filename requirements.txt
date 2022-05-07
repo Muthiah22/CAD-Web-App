@@ -4,5 +4,6 @@ opencv-python
 streamlit_option_menu
 streamlit
 pandas 
+cv2
 
 

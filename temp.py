@@ -3,9 +3,7 @@ st.set_page_config(
      page_title="CARDIO APP",
      page_icon="❤",
      layout="wide",
-     initial_sidebar_state="expanded"
-     
-     
+     initial_sidebar_state="expanded"   
  )
 from streamlit_option_menu import option_menu
 

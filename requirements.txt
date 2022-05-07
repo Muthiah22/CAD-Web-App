@@ -1,6 +1,6 @@
 streamlit_option_menu 
 numpy 
-cv2
+opencv
 pickle
 
 pyrebase

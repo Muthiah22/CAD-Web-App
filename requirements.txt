@@ -4,6 +4,6 @@ opencv-python
 streamlit_option_menu
 streamlit
 pandas 
-apt install libgl1-mesa-glx
+libgl1-mesa-glx
 
 

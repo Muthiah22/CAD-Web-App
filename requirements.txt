@@ -1,6 +1,6 @@
 
 numpy
-opencv-python
+opencv-python-headless
 streamlit_option_menu
 streamlit
 pandas 
